@@ -10,9 +10,9 @@
 # Local ipv6
 # No Data
 
-# mrt.uclllabs.be ipv4
-193.191.177.6
+# yoda.uclllabs.be ipv4
+193.191.177.12
 # mrt.uclllabs.be ipv6
-2001:6a8:2880:a021::6
+2001:6a8:2880:a021::12
 
 
