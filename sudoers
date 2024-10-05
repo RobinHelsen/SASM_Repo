@@ -58,4 +58,4 @@ check   ALL=(ALL:ALL) ALL
 
 # allow user to run features without password
 check ALL=(ALL) NOPASSWD: /usr/lib/nagios/plugins/check_apt
-check ALL=(ALL) NOPASSWD: /usr/sbin/arp
+check ALL=(ALL) NOPASSWD: /usr/sbin/arp -n
